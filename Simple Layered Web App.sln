@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService", "MathService\MathService.csproj", "{BE6AE77A-B782-44DE-AF1C-66429C85DBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService.Tests", "MathService.Tests\MathService.Tests.csproj", "{C945E7B7-2509-4164-9236-7C8DB5679A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webx", "Webx\Webx.csproj", "{86569E5B-CF94-478F-97F5-9A923B2E284B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6AE77A-B782-44DE-AF1C-66429C85DBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6AE77A-B782-44DE-AF1C-66429C85DBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6AE77A-B782-44DE-AF1C-66429C85DBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6AE77A-B782-44DE-AF1C-66429C85DBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C945E7B7-2509-4164-9236-7C8DB5679A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C945E7B7-2509-4164-9236-7C8DB5679A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C945E7B7-2509-4164-9236-7C8DB5679A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C945E7B7-2509-4164-9236-7C8DB5679A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86569E5B-CF94-478F-97F5-9A923B2E284B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86569E5B-CF94-478F-97F5-9A923B2E284B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86569E5B-CF94-478F-97F5-9A923B2E284B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86569E5B-CF94-478F-97F5-9A923B2E284B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
